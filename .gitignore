@@ -1,0 +1,8 @@
+# Compiled binaries
+client
+server
+*.exe
+*.o
+
+# Logs
+*.log
